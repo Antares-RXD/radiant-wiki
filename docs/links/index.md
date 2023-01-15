@@ -1,5 +1,3 @@
-# Links
-
 ## PRINCIPAL
 
 - **Website:** https://radiantblockchain.org
